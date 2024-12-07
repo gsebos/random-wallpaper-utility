@@ -1,6 +1,6 @@
 # Random Unsplash wallpaper on demand for Linux
 
-A quick script to set a random unsplash picture as wallpaper for each of your monitors in linux. It uses feh for X11 and wpaperd (default) or swaybg (with option) for wayland so these programmes need to be installed on the system for this to work (see installation).
+A simple script to set a random unsplash picture as wallpaper for each of your monitors in linux. It uses feh for X11 and wpaperd (default) or swaybg (with option) for wayland so these programmes need to be installed on the system for this to work (see installation).
 
 
 # Installation
