@@ -3,6 +3,8 @@ from tkinter import ttk
 from randomunsplash import WallpaperManager
 from randomunsplash import wpaperdConfig
 
+# Future project not functional
+
 class App:
     def __init__(self):
         self.root = tk.Tk()
